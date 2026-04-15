@@ -1,5 +1,7 @@
 # User Import Tool
 
+[日本語](README_ja.md)
+
 ## TL;DR
 
 This tool provides a quick and easy way for users using PingOne for Customers (P14C) to import users into their application instance from a CSV file. Read more about P14C at https://developer.pingidentity.com.
